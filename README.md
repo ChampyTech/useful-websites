@@ -4,6 +4,10 @@
 
 Welcome to a curated collection of powerful web-based tools that work directly in your browser. <b>No downloads, no installations, no hassle</b> - just bookmark, click, and start using these carefully selected websites for productivity, learning, creativity, and everyday tasks. Whether you're a student, professional, or curious explorer, these tools are designed to make your digital life <b>easier and more efficient</b>. Simply click any link to access these browser-based resources instantly.
 
+<b>Quick navigation</b>: Use <b>Ctrl+F</b> (Windows/Linux/Chromebook) or <b>⌘+F</b> (Mac) to search through the collection and find exactly what you need.
+
+<b>Important note</b>: This site only includes apps and tools that can be used directly in the browser without downloading anything. For <b>downloadable applications and software</b>, check out <a href="https://champytech.github.io/useful-apps/">A Curated List of Useful Apps</a>.
+
 ## 🙏 Contributing
 Got an <b>idea</b>? Want to add something awesome? <a href="https://github.com/ChampyTech/useful-websites/issues/new" target="_blank">Open an issue on GitHub!</a>
 
