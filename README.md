@@ -1,4 +1,4 @@
-# 🌐 A Curated List of Useful Websites
+# 🔨 A Curated List of Useful Websites
 
 <a href="https://champytech.github.io/useful-websites/">🔗 Visit website</a>
 
