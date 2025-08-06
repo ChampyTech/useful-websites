@@ -1,5 +1,10 @@
 # 🔨 A Curated List of Useful Websites
 
+<p>
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-welcome-green">
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
+</p>
+
 <a href="https://champytech.github.io/useful-websites/">🔗 Visit website</a>
 
 Welcome to a curated collection of powerful web-based tools that work directly in your browser. <b>No downloads, no installations, no hassle</b> - just bookmark, click, and start using these carefully selected websites for productivity, learning, creativity, and everyday tasks. Whether you're a student, professional, or curious explorer, these tools are designed to make your digital life <b>easier and more efficient</b>. Simply click any link to access these browser-based resources instantly.
