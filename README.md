@@ -7,7 +7,7 @@
 
 <a href="https://champytech.github.io/useful-websites/">🔗 Visit website</a>
 
-Welcome to a curated collection of powerful web-based tools that work directly in your browser. No downloads, no installations, no hassle. Just bookmark, click, and start using these carefully selected websites for productivity, learning, creativity, and everyday tasks.
+A curated list of useful websites you can use directly from your browser: no downloads, no installs, just click and go. Perfect for productivity, learning, and everyday tasks.
 
 <b>Quick navigation</b>: Use <b>Ctrl+F</b> (Windows/Linux/Chromebook) or <b>⌘+F</b> (Mac) to search through the collection and find exactly what you need.
 
