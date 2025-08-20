@@ -18,3 +18,7 @@ Open a pull request or an issue. Even small contributions are welcome!
 ## ⚠️ Disclaimer
 
 By utilizing this repository ("A Curated List of Useful Websites"), you acknowledge that this project is not associated with, sponsored by, or endorsed by any of the websites mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the content. Modifications to the content of linked websites are outside the control of this project. Users access linked websites at their own risk and discretion.
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
