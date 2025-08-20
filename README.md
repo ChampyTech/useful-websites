@@ -45,10 +45,8 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ### Website Report Tools
 
-<p><span class="tag">What's this?</span> These tools help you report suspicious, malicious, or phishing
-    websites to major security vendors and organizations. If you encounter a dangerous website, reporting it to
-    these services helps protect other users by adding the site to security databases and blocklists. Most of these
-    tools also allow you to check a website's current security status and reputation before visiting it.</p>
+> [!NOTE]
+> These tools help you report suspicious, malicious, or phishing websites to major security vendors and organizations. If you encounter a dangerous website, reporting it to these services helps protect other users by adding the site to security databases and blocklists. Most of these tools also allow you to check a website's current security status and reputation before visiting it.
 
 <!-- Tutorial: https://youtu.be/0fIUiv9-UFk -->
 - **<a href="https://phish.report">Phish Report</a>**: Centralized platform for reporting phishing websites and
