@@ -14,7 +14,8 @@ Welcome to a curated collection of powerful web-based tools that work directly i
 <b>Important note</b>: This site only includes apps and tools that can be used directly in the browser without downloading anything. For <b>downloadable applications and software</b>, check out <a href="https://champytech.github.io/useful-apps/">A Curated List of Useful Apps</a>.
 
 ## 🙏 Contributing
-Got an <b>idea</b>? Want to add something awesome? <a href="." target="_blank">Open an issue or a pull request on GitHub!</a>
+
+Open a pull request or an issue. Even small contributions are welcome!
 
 ## ⚠️ Disclaimer
 By utilizing this website ("A Curated List of Useful Websites"), you acknowledge that this project is not associated with, sponsored by, or endorsed by any of the websites mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the content. Modifications to the content of linked websites are outside the control of this project. Users access linked websites at their own risk and discretion.
