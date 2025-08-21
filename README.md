@@ -568,7 +568,7 @@ Open a pull request or an issue. Even small contributions are welcome!
 
 ## ⚠️ Disclaimer
 
-By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any of the websites mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the content. Modifications to the content of linked websites are outside the control of this project. Users access linked websites at their own risk and discretion.
+By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any of the websites or their operators mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the content. Updates to the websites, their content, services, availability, functionality, or terms of use are outside the control of this project. Users access and use websites at their own risk and discretion. The author of this repository does not assume responsibility for any issues, damages, or consequences that may arise from accessing any of the recommended websites, including but not limited to data breaches, privacy violations, malicious content, phishing attempts, or service interruptions. Always verify website legitimacy, review privacy policies and terms of service, and exercise caution when providing personal information before using any website.
 
 ## 🎫 License
 
