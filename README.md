@@ -17,6 +17,25 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ## 🔨 Websites
 
+### Table of Contents
+
+- [Minecraft Tools](#minecraft-tools)
+- [Website Report Tools](#website-report-tools)
+- [AI Tools](#ai-tools)
+- [Funny Tools \& Games](#funny-tools--games)
+- [Wallpapers](#wallpapers)
+- [Translation \& Languages Tools](#translation--languages-tools)
+- [Development \& Coding Tools](#development--coding-tools)
+- [Design \& Graphics Tools](#design--graphics-tools)
+- [File Tools](#file-tools)
+- [Utilities](#utilities)
+- [Website Tools \& Analysis](#website-tools--analysis)
+- [Security \& Privacy Tools](#security--privacy-tools)
+- [Media Tools](#media-tools)
+- [Audio \& Music Tools](#audio--music-tools)
+- [Generators](#generators)
+- [Calculators](#calculators)
+
 ### Minecraft Tools
 
 - [**Minecraft Wiki**](https://minecraft.fandom.com/wiki/Minecraft_Wiki): Comprehensive wiki with detailed information about Minecraft gameplay, blocks, items, and mechanics
