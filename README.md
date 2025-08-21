@@ -70,42 +70,24 @@ A curated list of useful websites you can use directly from your browser: no dow
 > These tools help you report suspicious, malicious, or phishing websites to major security vendors and organizations. If you encounter a dangerous website, reporting it to these services helps protect other users by adding the site to security databases and blocklists. Most of these tools also allow you to check a website's current security status and reputation before visiting it.
 
 <!-- Tutorial: https://youtu.be/0fIUiv9-UFk -->
-- **<a href="https://phish.report">Phish Report</a>**: Centralized platform for reporting phishing websites and
-    suspicious URLs
-- **<a href="https://safebrowsing.google.com/safebrowsing/report_phish/">Google Safe Browsing</a>**: Report
-    phishing and malicious websites to Google's security database
-- **<a href="https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site">Microsoft Defender</a>**: Report
-    unsafe websites to Microsoft's security intelligence
-- **<a href="https://www.fortiguard.com/webfilter">Fortiguard Web Filter</a>**: Check website categories and
-    report misclassified sites to Fortinet
-- **<a href="https://www.brightcloud.com/tools/url-ip-lookup.php">BrightCloud URL Lookup</a>**: Check URL
-    reputation and report threats to Webroot's security database
-- **<a href="https://threatcenter.crdf.fr/submit_url.html">CRDF Threat Center</a>**: Submit suspicious URLs for
-    analysis and threat intelligence
-- **<a href="https://report.netcraft.com/report">Netcraft</a>**: Report phishing sites and suspicious web
-    activity to Netcraft's security team
-- **<a href="https://urlfiltering.paloaltonetworks.com/">Palo Alto Networks</a>**: Check URL categories and
-    submit websites for review
-- **<a href="https://phishing.eset.com/en-us/report">ESET Phishing Report</a>**: Report phishing websites to
-    ESET's security database
-- **<a href="https://global.sitesafety.trendmicro.com/index.php">Trend Micro Site Safety</a>**: Check website
-    safety ratings and report suspicious sites
-- **<a href="https://www.bitdefender.com/consumer/support/answer/29358/">BitDefender</a>**: Report malicious
-    websites to BitDefender's security team
-- **<a href="https://sitelookup.mcafee.com/">McAfee Site Lookup</a>**: Check website reputation and report
-    threats to McAfee
-- **<a href="https://csi.forcepoint.com/">Forcepoint CSI</a>**: Security intelligence platform for URL
-    categorization and threat reporting
-- **<a href="https://sitereview.symantec.com/#/">Symantec Site Review</a>**: Check website ratings and submit
-    sites for review by Symantec
-- **<a href="https://www.spam404.com/report.html">Spam404</a>**: Report spam and malicious websites to help
-    improve web security
-- **<a href="https://opentip.kaspersky.com/">Kaspersky OpenTIP</a>**: Submit suspicious files and URLs for
-    analysis by Kaspersky
-- **<a href="https://talosintelligence.com/reputation_center">Cisco Talos Intelligence</a>**: Check IP and
-    domain reputation, report threats to Cisco's security team
-- **<a href="https://www.avira.com/en/analysis/submit-url">Avira URL Analysis</a>**: Submit URLs for security
-    analysis and threat detection
+- [Phish Report](https://phish.report): Centralized platform for reporting phishing websites and suspicious URLs
+- [Google Safe Browsing](https://safebrowsing.google.com/safebrowsing/report_phish/): Report phishing and malicious websites to Google's security database
+- [Microsoft Defender](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site): Report unsafe websites to Microsoft's security intelligence
+- [Fortiguard Web Filter](https://www.fortiguard.com/webfilter): Check website categories and report misclassified sites to Fortinet
+- [BrightCloud URL Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php): Check URL reputation and report threats to Webroot's security database
+- [CRDF Threat Center](https://threatcenter.crdf.fr/submit_url.html): Submit suspicious URLs for analysis and threat intelligence
+- [Netcraft](https://report.netcraft.com/report): Report phishing sites and suspicious web activity to Netcraft's security team
+- [Palo Alto Networks](https://urlfiltering.paloaltonetworks.com/): Check URL categories and submit websites for review
+- [ESET Phishing Report](https://phishing.eset.com/en-us/report): Report phishing websites to ESET's security database
+- [Trend Micro Site Safety](https://global.sitesafety.trendmicro.com/index.php): Check website safety ratings and report suspicious sites
+- [BitDefender](https://www.bitdefender.com/consumer/support/answer/29358/): Report malicious websites to BitDefender's security team
+- [McAfee Site Lookup](https://sitelookup.mcafee.com/): Check website reputation and report threats to McAfee
+- [Forcepoint CSI](https://csi.forcepoint.com/): Security intelligence platform for URL categorization and threat reporting
+- [Symantec Site Review](https://sitereview.symantec.com/#/): Check website ratings and submit sites for review by Symantec
+- [Spam404](https://www.spam404.com/report.html): Report spam and malicious websites to help improve web security
+- [Kaspersky OpenTIP](https://opentip.kaspersky.com/): Submit suspicious files and URLs for analysis by Kaspersky
+- [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center): Check IP and domain reputation, report threats to Cisco's security team
+- [Avira URL Analysis](https://www.avira.com/en/analysis/submit-url): Submit URLs for security analysis and threat detection
 
 ### AI Tools
 
