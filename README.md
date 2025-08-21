@@ -127,7 +127,6 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [The Useless Web](https://theuselessweb.com): Random generator that takes you to pointless but entertaining websites
 - [The Zen Zone](https://thezen.zone): Relaxing ambient sounds and visuals for meditation and focus
 - [This Person Does Not Exist](https://thispersondoesnotexist.com): AI-generated realistic human faces that don't belong to real people
-- [This Website Will Self Destruct](https://thiswebsitewillselfdestruct.com): Interactive website that destroys itself unless visitors keep it alive
 - [Binary Piano](https://binarypiano.com): Musical instrument that plays piano notes using binary code input
 - [Virtual Musical Instruments](https://virtualmusicalinstruments.com): Collection of playable musical instruments directly in your browser
 - [Hacker Typer](https://hackertyper.net): Fake hacker terminal that makes you look like a movie hacker while typing
