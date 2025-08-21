@@ -38,30 +38,30 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ### Minecraft Tools
 
-- [**Minecraft Wiki**](https://minecraft.fandom.com/wiki/Minecraft_Wiki): Comprehensive wiki with detailed information about Minecraft gameplay, blocks, items, and mechanics
-- [**Minecraft ArmorStand**](https://haselkern.com/Minecraft-ArmorStand): Interactive tool for creating and customizing armor stands with poses and equipment
-- [**DigMinecraft**](https://digminecraft.com/): Minecraft guides, tutorials, and reference materials for crafting, commands, and game mechanics
-- [**Vanilla Tweaks**](https://vanillatweaks.net/): Collection of quality-of-life improvements and customizations for vanilla Minecraft
-- [**Chunkbase**](https://chunkbase.com/apps): Minecraft world analysis tools including biome finders, seed maps, and structure locators
-- [**Minecraft Command Science**](https://minecraftcommand.science/): Advanced command generators and tools for creating complex Minecraft commands
-- [**Minecraft Tools**](https://minecraft.tools/): Collection of utilities and generators for Minecraft including text generators and calculators
-- [**9Minecraft**](https://9minecraft.net/): Resource for Minecraft mods, maps, texture packs, and game modifications
-- [**MCStacker**](https://mcstacker.net/): Command generator for creating items, entities, and other Minecraft elements with custom NBT data
-- [**MCStacker Murals**](https://legacy.mcstacker.net/minecraftmurals): Tool for converting images into Minecraft pixel art using blocks and maps
-- [**Minecraft Heads**](https://minecraft-heads.com/): Database of custom player heads for decoration and building in Minecraft
-- [**Hue Blocks**](https://1280px.github.io/hueblocks): Color palette tool for finding and matching Minecraft block colors for building projects
-- [**Voxel Sphere Generator**](http://oranj.io/blog/VoxelSphereGenerator): Tool for generating sphere and circle templates for Minecraft building projects
-- [**Plotz**](https://plotz.co.uk/): Online 3D model generators for creating spheres, ellipses, and other geometric shapes in Minecraft
-- [**Maximum FX Portal**](https://maximumfx.nl/portal): Minecraft server hosting and management tools with custom configurations
-- [**Aternos**](https://aternos.org/): Free Minecraft server hosting service with easy setup and management
-- [**Minecraft Crafting**](https://minecraftcrafting.info/): Complete crafting recipe database with search and filtering options
-- [**Minecraft Skins**](https://minecraftskins.com/): Large collection of custom player skins with editor and upload tools
-- [**Planet Minecraft**](https://planetminecraft.com/): Community platform for sharing Minecraft creations, maps, skins, and mods
-- [**Minecraft Item IDs**](https://minecraftitemids.com/): Complete reference for all Minecraft item IDs and data values
-- [**Minecraft Art**](https://minecraftart.netlify.app/): Tool for converting images into Minecraft pixel art with block recommendations
-- [**Pixel Papercraft**](https://pixelpapercraft.com/print): Printable papercraft templates for Minecraft characters, blocks, and items
-- [**Minecraft Maps**](https://minecraftmaps.com/): Repository of custom adventure maps, mini-games, and world downloads
-- [**Hielke Maps**](https://hielkemaps.com/): High-quality custom Minecraft maps and world downloads
+- [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki): Comprehensive wiki with detailed information about Minecraft gameplay, blocks, items, and mechanics
+- [Minecraft ArmorStand](https://haselkern.com/Minecraft-ArmorStand): Interactive tool for creating and customizing armor stands with poses and equipment
+- [DigMinecraft](https://digminecraft.com/): Minecraft guides, tutorials, and reference materials for crafting, commands, and game mechanics
+- [Vanilla Tweaks](https://vanillatweaks.net/): Collection of quality-of-life improvements and customizations for vanilla Minecraft
+- [Chunkbase](https://chunkbase.com/apps): Minecraft world analysis tools including biome finders, seed maps, and structure locators
+- [Minecraft Command Science](https://minecraftcommand.science/): Advanced command generators and tools for creating complex Minecraft commands
+- [Minecraft Tools](https://minecraft.tools/): Collection of utilities and generators for Minecraft including text generators and calculators
+- [9Minecraft](https://9minecraft.net/): Resource for Minecraft mods, maps, texture packs, and game modifications
+- [MCStacker](https://mcstacker.net/): Command generator for creating items, entities, and other Minecraft elements with custom NBT data
+- [MCStacker Murals](https://legacy.mcstacker.net/minecraftmurals): Tool for converting images into Minecraft pixel art using blocks and maps
+- [Minecraft Heads](https://minecraft-heads.com/): Database of custom player heads for decoration and building in Minecraft
+- [Hue Blocks](https://1280px.github.io/hueblocks): Color palette tool for finding and matching Minecraft block colors for building projects
+- [Voxel Sphere Generator](http://oranj.io/blog/VoxelSphereGenerator): Tool for generating sphere and circle templates for Minecraft building projects
+- [Plotz](https://plotz.co.uk/): Online 3D model generators for creating spheres, ellipses, and other geometric shapes in Minecraft
+- [Maximum FX Portal](https://maximumfx.nl/portal): Minecraft server hosting and management tools with custom configurations
+- [Aternos](https://aternos.org/): Free Minecraft server hosting service with easy setup and management
+- [Minecraft Crafting](https://minecraftcrafting.info/): Complete crafting recipe database with search and filtering options
+- [Minecraft Skins](https://minecraftskins.com/): Large collection of custom player skins with editor and upload tools
+- [Planet Minecraft](https://planetminecraft.com/): Community platform for sharing Minecraft creations, maps, skins, and mods
+- [Minecraft Item IDs](https://minecraftitemids.com/): Complete reference for all Minecraft item IDs and data values
+- [Minecraft Art](https://minecraftart.netlify.app/): Tool for converting images into Minecraft pixel art with block recommendations
+- [Pixel Papercraft](https://pixelpapercraft.com/print): Printable papercraft templates for Minecraft characters, blocks, and items
+- [Minecraft Maps](https://minecraftmaps.com/): Repository of custom adventure maps, mini-games, and world downloads
+- [Hielke Maps](https://hielkemaps.com/): High-quality custom Minecraft maps and world downloads
 
 
 ### Website Report Tools
