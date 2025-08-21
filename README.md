@@ -91,28 +91,17 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ### AI Tools
 
-- **<a href="https://stablediffusionweb.com/">Stable Diffusion Web</a>**: Online AI image generator using
-    Stable Diffusion models for creating artwork from text prompts
-- **<a href="https://labs.openai.com/">OpenAI Labs</a>**: Experimental AI tools and research projects from
-    OpenAI for testing cutting-edge AI capabilities
-- **<a href="https://synthesia.io/">Synthesia</a>**: AI video generation platform that creates realistic videos
-    with AI avatars from text scripts
-- **<a href="https://chatgpt.com/">ChatGPT</a>**: OpenAI's conversational AI assistant for answering questions,
-    writing, and problem-solving
-- **<a href="https://gemini.google.com/">Google Gemini</a>**: Google's advanced AI assistant for conversations,
-    analysis, and creative tasks
-- **<a href="https://claude.ai/">Claude AI</a>**: Anthropic's helpful AI assistant for writing, analysis, math,
-    coding, and creative tasks
-- **<a href="https://beta.character.ai/">Character AI</a>**: Platform for creating and chatting with AI
-    characters with different personalities and roles
-- **<a href="https://playgroundai.com/">Playground AI</a>**: AI image generation platform with multiple models
-    and editing tools for creating digital art
-- **<a href="https://prompts.chat/">Prompts Chat</a>**: Collection of curated AI prompts and templates for
-    various AI tools and use cases
-- **<a href="https://hsuper.tools/">HSuper Tools</a>**: Collection of AI-powered tools and utilities for
-    productivity and creative tasks
-- **<a href="https://perchance.org/ai-text-to-image-generator">Perchance AI Image Generator</a>**: Free
-    AI-powered text-to-image generator with various art styles and models
+- [Stable Diffusion Web](https://stablediffusionweb.com/): Online AI image generator using Stable Diffusion models for creating artwork from text prompts
+- [OpenAI Labs](https://labs.openai.com/): Experimental AI tools and research projects from OpenAI for testing cutting-edge AI capabilities
+- [Synthesia](https://synthesia.io/): AI video generation platform that creates realistic videos with AI avatars from text scripts
+- [ChatGPT](https://chatgpt.com/): OpenAI's conversational AI assistant for answering questions, writing, and problem-solving
+- [Google Gemini](https://gemini.google.com/): Google's advanced AI assistant for conversations, analysis, and creative tasks
+- [Claude AI](https://claude.ai/): Anthropic's helpful AI assistant for writing, analysis, math, coding, and creative tasks
+- [Character AI](https://beta.character.ai/): Platform for creating and chatting with AI characters with different personalities and roles
+- [Playground AI](https://playgroundai.com/): AI image generation platform with multiple models and editing tools for creating digital art
+- [Prompts Chat](https://prompts.chat/): Collection of curated AI prompts and templates for various AI tools and use cases
+- [HSuper Tools](https://hsuper.tools/): Collection of AI-powered tools and utilities for productivity and creative tasks
+- [Perchance AI Image Generator](https://perchance.org/ai-text-to-image-generator): Free AI-powered text-to-image generator with various art styles and models
 
 ### Funny Tools & Games
 
