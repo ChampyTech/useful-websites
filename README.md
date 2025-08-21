@@ -9,7 +9,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
-> [!IMPORTANT]
+> [!NOTE]
 > This repository only includes apps and tools that can be used directly in the browser without downloading anything. For downloadable applications and software, check out [A Curated List of Useful Apps](https://github.com/ChampyTech/useful-apps).
 
 ## 🔨 Websites
