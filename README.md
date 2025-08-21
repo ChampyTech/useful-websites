@@ -105,77 +105,42 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ### Funny Tools & Games
 
-- **<a href="https://emupedia.net/beta/emuos/">EmuOS</a>**: Browser-based emulator with classic Windows
-    interface and retro games
-- **<a href="https://www.retrogames.cc/">RetroGames</a>**: Online platform for playing classic vintage video games
-- **<a href="https://myemulator.online/">MyEmulator</a>**: Web-based game emulator supporting multiple retro
-    gaming consoles
-- **<a href="https://froggi.es/mario/">Mario 64 Online</a>**: Browser version of Super Mario 64 with online
-    multiplayer
-- **<a href="https://programmerhumor.io">Programmer Humor</a>**: Collection of programming jokes, memes, and
-    humor for developers
-- **<a href="https://driveandlisten.herokuapp.com">Drive & Listen</a>**: Virtual driving experience with real
-    city sounds and radio stations from around the world
-- **<a href="https://drivenlisten.com">Driven Listen</a>**: Immersive driving simulator with ambient city
-    sounds and music
-- **<a href="https://geekprank.com">Geek Prank</a>**: Collection of fake hacker screens and tech pranks for
-    harmless fun
-- **<a href="https://platform.leolabs.space/visualizations/leo">LeoLabs Space Visualization</a>**: Real-time 3D
-    visualization of satellites and space debris in Earth's orbit
-- **<a href="https://drawing.garden">Drawing Garden</a>**: Collaborative drawing tool where multiple users can
-    create art together in real-time
-- **<a href="https://lifeat.io">Life At</a>**: Virtual coworking spaces with ambient sounds and video
-    backgrounds for productivity
-- **<a href="https://neal.fun">Neal.fun</a>**: Collection of interactive web experiments, games, and
-    educational tools
-- **<a href="https://toms.toys">Tom's Toys</a>**: Interactive web toys and mini-games for entertainment and
-    creativity
-- **<a href="https://checkbox.toys">Checkbox Toys</a>**: Satisfying interactive checkboxes and simple web toys
-    for relaxation
-- **<a href="https://sites.google.com/site/tyronesgameshack">Tyrone's Game Shack</a>**: Collection of unblocked
-    games playable in web browsers
-- **<a href="https://noclip.website">NoClip</a>**: Explore 3D video game environments directly in your browser
-
-- **<a href="https://santatracker.google.com">Google Santa Tracker</a>**: Track Santa's Christmas journey with
-    games and holiday activities
-- **<a href="https://spend-elon-fortune.com">Spend Elon's Fortune</a>**: Interactive game where you try to
-    spend Elon Musk's wealth on various items
-- **<a href="https://thatsthefinger.com">That's The Finger</a>**: Simple website that points a finger at your
-    cursor wherever you move it
-- **<a href="https://theuselessweb.com">The Useless Web</a>**: Random generator that takes you to pointless but
-    entertaining websites
-- **<a href="https://thezen.zone">The Zen Zone</a>**: Relaxing ambient sounds and visuals for meditation and
-    focus
-- **<a href="https://thispersondoesnotexist.com">This Person Does Not Exist</a>**: AI-generated realistic human
-    faces that don't belong to real people
-- **<a href="https://thiswebsitewillselfdestruct.com">This Website Will Self Destruct</a>**: Interactive
-    website that destroys itself unless visitors keep it alive
-- **<a href="https://binarypiano.com">Binary Piano</a>**: Musical instrument that plays piano notes using
-    binary code input
-- **<a href="https://virtualmusicalinstruments.com">Virtual Musical Instruments</a>**: Collection of playable
-    musical instruments directly in your browser
-- **<a href="https://hackertyper.net">Hacker Typer</a>**: Fake hacker terminal that makes you look like a movie
-    hacker while typing
-- **<a href="https://fakewhats.com">Fake WhatsApp</a>**: Create fake WhatsApp conversations and screenshots for
-    pranks and demonstrations
-- **<a href="https://filmora.wondershare.com/meme-maker">Filmora Meme Maker</a>**: Online tool for creating
-    custom memes with text, images, and templates
-- **<a href="https://sortvisualizer.com">Sort Visualizer</a>**: Interactive visualization of different sorting
-    algorithms in action
-- **<a href="https://pointerpointer.com">Pointer Pointer</a>**: Website that finds photos of people pointing at
-    your cursor location
-- **<a href="https://geohints.com">GeoHints</a>**: Resource providing tips and strategies for geography-based
-    guessing games
-- **<a href="https://sv-map.netlify.app">SV-Map</a>**: Interactive mapping tool using Street View data for
-    location exploration
-- **<a href="https://www.plonkit.net">Plonkit</a>**: Geography guessing game similar to GeoGuessr with Street
-    View challenges
-- **<a href="https://flagpedia.net/index">Flagpedia</a>**: Comprehensive database of world flags with country
-    information and details
-- **<a href="https://geotips.net">GeoTips</a>**: Educational resource with geography tips for location
-    identification games
-- **<a href="https://flagguesser.com">Flag Guesser</a>**: Interactive quiz game for testing knowledge of world
-    flags
+- [EmuOS](https://emupedia.net/beta/emuos/): Browser-based emulator with classic Windows interface and retro games
+- [RetroGames](https://www.retrogames.cc/): Online platform for playing classic vintage video games
+- [MyEmulator](https://myemulator.online/): Web-based game emulator supporting multiple retro gaming consoles
+- [Mario 64 Online](https://froggi.es/mario/): Browser version of Super Mario 64 with online multiplayer
+- [Programmer Humor](https://programmerhumor.io): Collection of programming jokes, memes, and humor for developers
+- [Drive & Listen](https://driveandlisten.herokuapp.com): Virtual driving experience with real city sounds and radio stations from around the world
+- [Driven Listen](https://drivenlisten.com): Immersive driving simulator with ambient city sounds and music
+- [Geek Prank](https://geekprank.com): Collection of fake hacker screens and tech pranks for harmless fun
+- [LeoLabs Space Visualization](https://platform.leolabs.space/visualizations/leo): Real-time 3D visualization of satellites and space debris in Earth's orbit
+- [Drawing Garden](https://drawing.garden): Collaborative drawing tool where multiple users can create art together in real-time
+- [Life At](https://lifeat.io): Virtual coworking spaces with ambient sounds and video backgrounds for productivity
+- [Neal.fun](https://neal.fun): Collection of interactive web experiments, games, and educational tools
+- [Tom's Toys](https://toms.toys): Interactive web toys and mini-games for entertainment and creativity
+- [Checkbox Toys](https://checkbox.toys): Satisfying interactive checkboxes and simple web toys for relaxation
+- [Tyrone's Game Shack](https://sites.google.com/site/tyronesgameshack): Collection of unblocked games playable in web browsers
+- [NoClip](https://noclip.website): Explore 3D video game environments directly in your browser
+- [Google Santa Tracker](https://santatracker.google.com): Track Santa's Christmas journey with games and holiday activities
+- [Spend Elon's Fortune](https://spend-elon-fortune.com): Interactive game where you try to spend Elon Musk's wealth on various items
+- [That's The Finger](https://thatsthefinger.com): Simple website that points a finger at your cursor wherever you move it
+- [The Useless Web](https://theuselessweb.com): Random generator that takes you to pointless but entertaining websites
+- [The Zen Zone](https://thezen.zone): Relaxing ambient sounds and visuals for meditation and focus
+- [This Person Does Not Exist](https://thispersondoesnotexist.com): AI-generated realistic human faces that don't belong to real people
+- [This Website Will Self Destruct](https://thiswebsitewillselfdestruct.com): Interactive website that destroys itself unless visitors keep it alive
+- [Binary Piano](https://binarypiano.com): Musical instrument that plays piano notes using binary code input
+- [Virtual Musical Instruments](https://virtualmusicalinstruments.com): Collection of playable musical instruments directly in your browser
+- [Hacker Typer](https://hackertyper.net): Fake hacker terminal that makes you look like a movie hacker while typing
+- [Fake WhatsApp](https://fakewhats.com): Create fake WhatsApp conversations and screenshots for pranks and demonstrations
+- [Filmora Meme Maker](https://filmora.wondershare.com/meme-maker): Online tool for creating custom memes with text, images, and templates
+- [Sort Visualizer](https://sortvisualizer.com): Interactive visualization of different sorting algorithms in action
+- [Pointer Pointer](https://pointerpointer.com): Website that finds photos of people pointing at your cursor location
+- [GeoHints](https://geohints.com): Resource providing tips and strategies for geography-based guessing games
+- [SV-Map](https://sv-map.netlify.app): Interactive mapping tool using Street View data for location exploration
+- [Plonkit](https://www.plonkit.net): Geography guessing game similar to GeoGuessr with Street View challenges
+- [Flagpedia](https://flagpedia.net/index): Comprehensive database of world flags with country information and details
+- [GeoTips](https://geotips.net): Educational resource with geography tips for location identification games
+- [Flag Guesser](https://flagguesser.com): Interactive quiz game for testing knowledge of world flags
 
 ### Wallpapers
 
