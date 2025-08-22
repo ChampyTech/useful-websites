@@ -124,7 +124,6 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [We Are Heroes](https://weareheroes.digital/resources): Curated collection of design resources including wallpapers and backgrounds
 - [Wallhaven](https://wallhaven.cc): Community-driven platform with unique and beautiful high-resolution wallpapers
 - [Wallpapers.com](https://wallpapers.com): Over 1.5 million free HD wallpapers for all screen sizes and devices
-- [Unsplash](https://unsplash.com): High-quality photography from professional photographers, perfect for wallpapers
 - [Pexels](https://www.pexels.com): Free stock photos and wallpapers with thousands of new images added daily
 - [Pixabay](https://pixabay.com): Over 300,000 free wallpaper images in HD to 4K resolution
 - [DesktopNexus](https://www.desktopnexus.com): Hundreds of thousands of wallpapers that automatically resize to fit your screen
@@ -169,6 +168,25 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ### Design & Graphics Tools
 
+- [Logopond](https://logopond.com/): Community showcase of logo designs and brand identity work
+- [CollectUI](http://collectui.com/designs/): Collection of user interface design inspiration and patterns
+- [unDraw](https://undraw.co/illustrations/): Free customizable SVG illustrations for any project
+- [ManyPixels](https://gallery.manypixels.co/): Free SVG illustrations with customizable colors
+- [Designspiration](https://www.designspiration.net/): Design inspiration platform for creative professionals
+- [TypoGraphicPoster](https://www.typographicposters.com/): Collection of typographic poster designs for inspiration
+- [Imgur](http://imgur.com/): Popular image hosting and sharing community platform
+- [Unsplash](https://unsplash.it/): Service for generating placeholder images from Unsplash photos
+- [LoremPixel](http://lorempixel.com/): Placeholder image generator with category-specific photos
+- [PicJumbo](https://picjumbo.com/): Free stock photos for personal and commercial use
+- [StockSnap](https://stocksnap.io/): Free stock photography with no attribution required
+- [Albumarium](http://albumarium.com/): Free stock photos focusing on everyday objects and scenes
+- [SplitShire](https://www.splitshire.com/): Free stock photos and videos for commercial and personal use
+- [NegativeSpace](https://negativespace.co/): Minimalist and artistic free stock photography
+- [Foodiesfeed](https://www.foodiesfeed.com/): Free food photography stock images
+- [Gratisography](https://gratisography.com/): Quirky and unique free stock photos
+- [Burst Shopify](https://burst.shopify.com/): Free stock photos provided by Shopify for business use
+- [Let's Enhance](https://letsenhance.io/): AI-powered image upscaling and enhancement service
+- [Life of Pix](https://www.lifeofpix.com/): Free high-resolution photography for personal and commercial use
 - [Dribbble](https://dribbble.com/): Creative portfolio platform for designers and developers
 - [AutoDraw](https://www.autodraw.com/): AI-powered drawing tool that suggests professional illustrations from sketches
 - [CopyChar](http://copychar.cc): Simple tool for finding and copying special characters and symbols
@@ -244,17 +262,45 @@ A curated list of useful websites you can use directly from your browser: no dow
 
 ### Utilities
 
+- [Tenon.io](https://tenon.io/): Automated accessibility testing service that checks web content for WCAG compliance issues
+- [Web Accessibility](https://www.webaccessibility.com/): Resources and tools for making websites accessible to users with disabilities
+- [Accessibility Insights](https://accessibilityinsights.io/): Microsoft's free accessibility testing tool for web and Windows applications
+- [GTmetrix](https://gtmetrix.com/): Website speed and performance analysis tool with detailed optimization recommendations
+- [Nibbler](https://nibbler.silktide.com/): Comprehensive website testing tool that analyzes accessibility, SEO, and user experience
+- [WebPageTest](https://www.webpagetest.org/): Detailed web performance testing with waterfall charts and optimization insights
+- [Pingdom Tools](https://tools.pingdom.com/): Website monitoring and performance testing service with global server locations
+- [webhint](https://webhint.io/): Linting tool that scans websites for accessibility, performance, and best practice issues
+- [turbo.net](https://turbo.net/browsers): Cloud-based browser testing platform for running different browser versions
+- [BrowserLing](https://www.browserling.com/): Cross-browser testing tool for testing websites in different browsers and operating systems
+- [BrowserStack](https://www.browserstack.com/): Comprehensive cross-browser and mobile testing platform with real device cloud
+- [SpeedCurve](https://speedcurve.com/): Performance monitoring platform with synthetic and real user monitoring capabilities
+- [Dotcom-Tools](https://www.dotcom-tools.com/website-speed-test.aspx): Website speed testing from multiple global locations
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/): Google's tool for analyzing page speed and providing optimization suggestions
 - [MapChart](https://www.mapchart.net): Create custom editable maps of the world, countries, and regions with color coding and downloadable results
 - [uMap](https://umap.openstreetmap.fr/en/): Create maps with OpenStreetMap layers in a minute and embed them in your site
+- [SEO Checklist](https://www.seochecklist.ru/): Comprehensive checklist for search engine optimization best practices
+- [Security Checklist](https://securitycheckli.st/): Security checklist covering various aspects of digital security and privacy
+- [Checklist Design](https://www.checklist.design/): Collection of design checklists for UI/UX best practices
+- [Web Developer Checklist](http://webdevchecklist.com): Essential checklist for web development best practices and standards
+- [The Front-End Checklist](https://frontendchecklist.io/): Comprehensive checklist for front-end development requirements
+- [The HTML & CSS Security Checklist](https://www.sqreen.com/checklists/html-css-security-checklist/): Security guidelines for HTML and CSS development
 - [OpenStreetMap](https://www.openstreetmap.org/): A collaborative world map created by people like you and free to use under an open license
 - [paintmaps.com](https://paintmaps.com): Online map graphics generation tool for creating custom map visualizations and charts
 - [Wikibooks](https://en.wikibooks.org): A giant collection of online textbooks that anyone can edit
 - [Project Gutenberg](https://www.gutenberg.org): A huge database of tens of thousands of free downloadable books (you can read them online, too)
 - [Student.com](https://student.com): World's largest marketplace for international student housing worldwide
 - [Innerbody](https://innerbody.com): Expert research and reviews for at-home health testing
-- [Regex101](https://regex101.com): Interactive online tool for testing and debugging regular expressions
 - [JSON Organizer](https://jsonformatter.org): Online JSON formatter and validator for organizing messy code
 - [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com): Web-based JSON formatter with validation and beautification features
+- [SEO Testing](https://varvy.com/): SEO analysis and testing tools for website optimization
+- [web.dev](https://web.dev/): Google's web development resources and testing tools
+- [RegExr](https://regexr.com/): Interactive regular expression testing and learning tool
+- [W3C](https://validator.w3.org/): Official W3C HTML markup validation service
+- [Regex101](https://regex101.com/): Advanced regex testing tool with explanations and debugging features
+- [Troy](http://troy.labs.daum.net/): Tool for testing responsive design across different device sizes
+- [Progressive Tooling](https://progressivetooling.com/): Collection of progressive web app development tools
+- [Mobile Friendly Testing](https://search.google.com/test/mobile-friendly): Google's tool for testing mobile-friendliness of web pages
+- [Mozilla Observatory](https://observatory.mozilla.org/): Website security scanner that analyzes HTTPS and security headers
 - [Code Beautify](https://codebeautify.org): Free online tools for formatting, validating, and beautifying code in multiple languages
 - [Lifeat.io](https://lifeat.io): Virtual workspace with focus music, task management, and immersive environments
 - [Emojis Wiki](https://emojis.wiki): Complete collection of emoji meanings, data, and easy copy-paste functionality
@@ -470,6 +516,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [Musixmatch](https://musixmatch.com): Lyrics database and music discovery platform
 - [SnapTik](https://snaptik.app): Download TikTok videos without watermarks
 - [SnapRedd](https://snapredd.app): Download Reddit videos and GIFs
+- [Raindrop.io](https://raindrop.io/): Visual bookmark manager for organizing and accessing saved web content
 
 ### Audio & Music Tools
 
